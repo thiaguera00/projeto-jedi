@@ -14,4 +14,4 @@
 <p>Calculadora de Mega Sena ✅ </p>
 <p>clique <a href="https://github.com/thiaguera00/mega-sena"> aqui </a> para entrar no repositorio do projeto!</p>
 
-<h3>Ultima alteração em 14/03/2023</h3>
+<h3>Ultima alteração em 21/03/2023</h3>
